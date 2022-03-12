@@ -11,6 +11,6 @@ tensorflow==2.0.0
 tensorflow-datasets==1.0.1
 jupyter-tensorboard==0.1.9
 plotly==4.1.1
-Pillow==6.2.0
+Pillow==9.0.1
 imageio==2.5.0
 imbalanced-learn==0.5.0
